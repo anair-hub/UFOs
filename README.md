@@ -22,4 +22,5 @@
     There was no data to reinforce or validate the claims done on UFO sightings.
   Recommendations
     1-Addition of number of people who witnessed UFO sightings
+    
     2-Allow flexibility to users to search furthur by duration and shape as well. In addition we can have a choice box to check on which all attributes are needed for furthur data drill down.
