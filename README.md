@@ -8,8 +8,8 @@
     ![Deliverable1](Images/Deliverable1.PNG)
 
   Second screenshot is of data where search was made for state='nj'
-
-    ![Deliverable2](Images/Deliverable2.PNG)
+  
+   ![Deliverable2](Images/Deliverable2.PNG)
 
  Third screenshot is of data where search was made for state='ca'
     ![Deliverable3](Images/Deliverable3.PNG)
