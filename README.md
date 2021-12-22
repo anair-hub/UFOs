@@ -15,7 +15,7 @@
     ![Deliverable3](Images/Deliverable3.PNG)
 
  Fourth screenshot is of data where search was made for state='ca' and then furthur on date='1/1/2010'
-    ![Deliverable3](Images/Deliverable3.PNG)
+    ![Deliverable4](Images/Deliverable4.PNG)
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
   Drawback
